@@ -13,7 +13,7 @@ html {
 /* @media only screen and (min-width: 481px) { */
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("/Users/ThomasMac/repos/weddingWebsite/images/biel-morro-kcKiBcDTJt4-unsplash.jpg");
+    url("images/biel-morro-kcKiBcDTJt4-unsplash.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-attachment: fixed;
